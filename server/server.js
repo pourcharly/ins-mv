@@ -3,7 +3,7 @@ const app = express();
 const http = require('http').Server(app);
 const socketServer = require('./sockets/server').start(http);
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 80;
 const path = require("path")
 const root = path.join(__dirname, "../");
 
