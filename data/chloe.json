@@ -1,0 +1,50 @@
+{
+    "type": 0,
+    "name": "Ingrid",
+    "avatar": "ingrid.jpeg",
+
+    "char": {
+        "fo": 4,
+        "ag": 3,
+        "pe": 3,
+        "vo": 4,
+        "pr": 3,
+        "foi": 1
+    },
+
+    "mainTalents": {
+        "baratin": 1,
+        "combat": 3,
+        "corpsACorps": 3,
+        "cultureG": 1,
+        "defense": 3,
+        "discretion": 1,
+        "discussion": 1,
+        "enquete": 1,
+        "tir": 3
+    },
+
+    "secondaryTalents": [
+        {
+            "label": "Sixième sens",
+            "value": 4
+        },
+        {
+            "label": "Conduite",
+            "value": 4
+        }
+    ],
+
+    "minorTalents": [
+        {
+            "label": "Lancé de flèchettes",
+            "value": 4
+        }
+    ],
+
+    "state": {
+        "inventory" : [
+            
+        ]
+    }
+}

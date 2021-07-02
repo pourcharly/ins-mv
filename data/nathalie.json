@@ -1,0 +1,121 @@
+{
+    "type": -1,
+    "name": "Octavia Della Porta",
+    "alternateName": "Eris Nyx",
+    "superior": "Malphas, Prince de la discorde",
+    "grade": 0,
+    "limitation": "Germophobe",
+
+    "char": {
+        "fo": 2,
+        "ag": 2,
+        "pe": 3,
+        "vo": 3,
+        "pr": 5,
+        "foi": 3
+    },
+
+    "mainTalents": {
+        "baratin": 1,
+        "combat": 1,
+        "corpsACorps": 1,
+        "cultureG": 1,
+        "defense": 2,
+        "discretion": 3,
+        "discussion": 3,
+        "enquete": 4,
+        "tir": 1
+    },
+
+    "secondaryTalents": [
+        {
+            "label": "Hypnose",
+            "value": 2
+        },
+        {
+            "label": "Informatique",
+            "value": 1
+        },
+        {
+            "label": "Savoir d'espion",
+            "value": 1
+        },
+        {
+            "label": "6e sens",
+            "value": 1
+        },
+        {
+            "label": "Kamasutra",
+            "value": 1
+        },
+        {
+            "label": "Conduite",
+            "value": 1
+        }
+    ],
+
+    "minorTalents": [],
+
+    "powers": [
+        "Décharge électrique",
+        "Lire dans les pensées",
+        "Détection des ennemis"
+    ],
+
+    "state": {
+        "inventory" : [
+            {
+                "label": "Sac à main",
+                "content": [
+                    "Porte feuille",
+                    "Gel hydro-alcoolique",
+                    "Lingettes désinfectantes",
+                    "Préservatifs",
+                    "Anti-dépresseurs (somnifères et stimulants)",
+                    "Menottes",
+                    "Demi-masque (type loup en velours noir)",
+                    "Maquillage",
+                    "Lunettes de soleil",
+                    "1 barre de céréale",
+                    "Briquet",
+                    "Étui à cigarette (au cas où je dois fumer pour me donner un style)"
+                ]
+            },
+            {
+                "label": "Poches",
+                "content": [
+                    "Clés"
+                ]
+            },
+            {
+                "label": "Cartable",
+                "content": [
+                    "Ordinateur portable",
+                    "De quoi écrire",
+                    "Mon livre culte Le rouge et le noir de Stendhal"
+                ]
+            },
+            {
+                "label": "Voiture",
+                "type": "À définir...",
+                "content": [
+                    "CD des Blues Brothers",
+                    "Tenue de sport (jogging, baskets)",
+                    "Tenue complète de rechange (en cas de tache)",
+                    "Pinces crocodile",
+                    "Bidon d’essence",
+                    "Plan de Paris",
+                    "Carte routière d’Ile de France",
+                    "Carte de France",
+                    "Lampe torche",
+                    "Trousse à pharmacie (pansements, désinfectants, ciseaux, pince à épiler, premiers secours)",
+                    "Un parapluie", "un kit mains libres", "une couverture",
+                    "Sacs à vomi",
+                    "Mouchoirs",
+                    "Nappe à pique-nique",
+                    "1 bouteille de champagne et des verres pour trinquer en cas de grande occasion à fêter"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "type": -1,
+    "name": "Anaud Deux",
+    "alternateName": "Sorhon",
+    "superior": "Scox, Prince des âmes",
+    "grade": 0,
+    "limitation": "",
+
+    "char": {
+        "fo": 2,
+        "ag": 3,
+        "pe": 3,
+        "vo": 2,
+        "pr": 3,
+        "foi": 5
+    },
+
+    "mainTalents": {
+        "baratin": 2,
+        "combat": 2,
+        "corpsACorps": 2,
+        "cultureG": 1,
+        "defense": 3,
+        "discretion": 3,
+        "discussion": 2,
+        "enquete": 1,
+        "tir": 1
+    },
+
+    "secondaryTalents": [
+        {
+            "label": "6ème sens",
+            "value": 2
+        },
+        {
+            "label": "Hypnose",
+            "value": 2
+        },
+        {
+            "label": "Narcolepsie",
+            "value": 1
+        },
+        {
+            "label": "Ventriloquie",
+            "value": 2
+        },
+        {
+            "label": "Pretidigitation",
+            "value": 1
+        }
+    ],
+
+    "minorTalents": [
+        {
+            "label": "Capacité à embrouiller ses interlocuteurs",
+            "value": 1
+        },
+        {
+            "label": "Poker face (qui ne sert pas au poker))",
+            "value": 1
+        },
+        {
+            "label": "Expertise de la bière",
+            "value": 1
+        }
+    ],
+
+    "powers": [
+        "Corps liquide",
+        "Psychométrie",
+        "Jet d'acide"
+    ]
+}

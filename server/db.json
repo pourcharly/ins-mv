@@ -1,0 +1,58 @@
+{
+    "config": {
+        "jwt": {
+            "secret": "jfdkslqfju!çàé&fezjjjkl$ùù:=mfsdjsqk:;,lmfjd;sklqjfdklsq"
+        }
+    },
+    "users": [
+        {
+            "id": 666,
+            "username": "Charlie",
+            "email": "charles@coulais.email",
+            "sheet": null,
+            "isMJ": true
+        },
+        {
+            "id": 111,
+            "username": "Chloé",
+            "email": "clo@hugz.fr",
+            "sheet": "chloe",
+            "isMJ": false
+        },
+        {
+            "id": 222,
+            "username": "François",
+            "email": "stickmou@yahoo.fr",
+            "sheet": "francois",
+            "isMJ": false
+        },
+        {
+            "id": 333,
+            "username": "Nathalie",
+            "email": "sphyraena@hotmail.fr",
+            "sheet": "nathalie",
+            "isMJ": false
+        },
+        {
+            "id": 444,
+            "username": "Rémy",
+            "email": "rodriguez.remy@me.com",
+            "sheet": "remy",
+            "isMJ": false
+        },
+        {
+            "id": 555,
+            "username": "Julien",
+            "email": "roland_julien@hotmail.com",
+            "sheet": "julien",
+            "isMJ": false
+        },
+        {
+            "id": 777,
+            "username": "Raphael",
+            "email": "raphaphou@gmail.com",
+            "sheet": "raphael",
+            "isMJ": false
+        }
+    ]
+}

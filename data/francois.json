@@ -1,0 +1,99 @@
+{
+    "type": 1,
+    "name": "Virgil Sursorgues",
+    "alternateName": "Méthos",
+    "secretIdentity": true,
+    "superior": "Yves, Archange des sources",
+    "grade": 1,
+    "limitation": "Hyperactif",
+    "quote": "'In Charles We Trust' Livre de Charles 1:1",
+    "avatar": "francois.jpg",
+
+    "char": {
+        "fo": 2,
+        "ag": 3,
+        "pe": 5,
+        "vo": 3,
+        "pr": 3,
+        "foi": 4
+    },
+
+    "mainTalents": {
+        "baratin": 4,
+        "combat": 1,
+        "corpsACorps": 1,
+        "cultureG": 3,
+        "defense": 1,
+        "discretion": 1,
+        "discussion": 2,
+        "enquete": 1,
+        "tir": 3
+    },
+
+    "secondaryTalents": [
+        {
+            "label": "Contortionnisme",
+            "value": 1
+        },
+        {
+            "label": "Kama Sutra",
+            "value": 1
+        },
+        {
+            "label": "Intrusion",
+            "value": 1
+        },
+        {
+            "label": "Humour",
+            "value": 1
+        },
+        {
+            "label": "Jeu",
+            "value": 1
+        },
+        {
+            "label": "Prestidigitation",
+            "value": 1
+        }
+    ],
+
+    "minorTalents": [
+        {
+            "label": "Parler super vite avec les yeux qui roulent",
+            "value": 1
+        },
+        {
+            "label": "Connaissance des drogues après consommation",
+            "value": 1
+        },
+        {
+            "label": "Resistance à l'overdose",
+            "value": 1
+        },
+        {
+            "label": "Fabrication de cocktails dégueulasses",
+            "value": 1
+        },
+        {
+            "label": "Cuisson du cul",
+            "value": 1
+        }
+    ],
+
+    "powers": [
+        "Psychométrie",
+        "Boomrang",
+        "Télékinésie",
+        "Philosophie"
+    ],
+
+    "state": {
+        "inventory": [
+            "Camisole de force",
+            "Cuillère en plastique",
+            "Slip Mickey",
+            "Crocks blanches",
+            "Pantalon en lin amidonné"
+        ]
+    }
+}

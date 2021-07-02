@@ -1,0 +1,74 @@
+{
+    "type": -1,
+    "name": "Jean Eudes Martoni",
+    "alternateName": "Ibiscus",
+    "superior": "À définir",
+    "grade": 0,
+    "limitation": "Paresse",
+    "avatar": "julien.jpg",
+
+    "char": {
+        "fo": 1,
+        "ag": 1,
+        "pe": 4,
+        "vo": 4,
+        "pr": 4,
+        "foi": 4
+    },
+
+    "mainTalents": {
+        "baratin": 4,
+        "combat": 1,
+        "corpsACorps": 1,
+        "cultureG": 3,
+        "defense": 1,
+        "discretion": 2,
+        "discussion": 3,
+        "enquete": 1,
+        "tir": 1
+    },
+
+    "secondaryTalents": [
+        {
+            "label": "Hypnose",
+            "value": 3
+        },
+        {
+            "label": "Narcolepsie",
+            "value": 1
+        },
+        {
+            "label": "Prestidigitation",
+            "value": 1
+        },
+        {
+            "label": "Ventriloquie",
+            "value": 3
+        }
+    ],
+
+    "minorTalents": [
+        {
+            "label": "Réparateur de machine à café",
+            "value": 1
+        },
+        {
+            "label": "Mettre une cravate",
+            "value": 1
+        },
+        {
+            "label": "Triche au poker",
+            "value": 1
+        },
+        {
+            "label": "Aide soignant",
+            "value": 1
+        }
+    ],
+
+    "powers": [
+        "Lire les pensées",
+        "Invisibilité",
+        "Télékinésie"
+    ]
+}
